@@ -164,3 +164,9 @@ Ran 1 test in 1.019s
 
 OK
 ```
+
+<a name="diapositives"/>
+
+## Diapositives
+
+La présentation se trouve dans le fichier ```slides.pdf``` dans la racine de ce repo.
